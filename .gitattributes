@@ -1,2 +1,5 @@
+# JSON5 を言語判定に認識させる
+*.json5 linguist-detectable=true
+
 # HTML を除外する
 *.html linguist-detectable=false
